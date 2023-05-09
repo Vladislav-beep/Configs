@@ -1,0 +1,21 @@
+{
+"productPage": {
+"buttonTitle": "Open feature",
+"header": "picture1",
+"advantages": [{
+"backgroundColor": "#333333",
+"title": "Advantage of feature 1",
+"subtitle": "Subtitle of advantage 1",
+"picture": "berry1"
+}, {
+"backgroundColor": "#444444",
+"title": "Advantage of feature 2",
+"subtitle": "Subtitle of advantage 2",
+"picture": "berry2"
+}, {
+"backgroundColor": "#999999",
+"title": "Advantage of feature 3",
+"subtitle": "Subtitle of advantage 3",
+"picture": "berry3"
+}]
+}
